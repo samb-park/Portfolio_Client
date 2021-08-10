@@ -1,4 +1,4 @@
-namespace WASM.V1.Common
+namespace Portfolio_Client.Common
 {
     public class ColorMode
     {

@@ -1,5 +1,16 @@
 ﻿@page "/"
+@page "/index"
 
-<h1 class="p">Hello, world!</h1>
 
-Welcome to your new app.
+<Landing></Landing>
+<About></About>
+<ProjectList></ProjectList>
+<WorkExperience></WorkExperience>
+<Contact></Contact>
+
+
+@code
+{
+    [CascadingParameter(Name = "ColorMode")]
+    public ColorMode COLOR { get; set; }
+}
