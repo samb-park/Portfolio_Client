@@ -10,16 +10,7 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="83ff08e9-114d-4018-a332-f8f51e9ef816" name="Changes" comment="">
-      <change beforePath="$PROJECT_DIR$/.idea/.idea.Portfolio_Client/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/.idea.Portfolio_Client/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Portfolio_Client/Common/ColorMode.cs" beforeDir="false" afterPath="$PROJECT_DIR$/Portfolio_Client/Common/ColorMode.cs" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Portfolio_Client/Pages/Counter.razor" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Portfolio_Client/Pages/FetchData.razor" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Portfolio_Client/Pages/Index.razor" beforeDir="false" afterPath="$PROJECT_DIR$/Portfolio_Client/Pages/Index.razor" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Portfolio_Client/Portfolio_Client.csproj" beforeDir="false" afterPath="$PROJECT_DIR$/Portfolio_Client/Portfolio_Client.csproj" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Portfolio_Client/Shared/SurveyPrompt.razor" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Portfolio_Client/_Imports.razor" beforeDir="false" afterPath="$PROJECT_DIR$/Portfolio_Client/_Imports.razor" afterDir="false" />
-    </list>
+    <list default="true" id="83ff08e9-114d-4018-a332-f8f51e9ef816" name="Changes" comment="" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -128,7 +119,7 @@
       <option name="presentableId" value="Default" />
       <updated>1628599821899</updated>
       <workItem from="1628599830208" duration="2555000" />
-      <workItem from="1628619692809" duration="2398000" />
+      <workItem from="1628619692809" duration="2709000" />
     </task>
     <servers />
   </component>
