@@ -10,10 +10,7 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="83ff08e9-114d-4018-a332-f8f51e9ef816" name="Changes" comment="">
-      <change beforePath="$PROJECT_DIR$/Portfolio_Client.sln" beforeDir="false" afterPath="$PROJECT_DIR$/Portfolio_Client.sln" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Portfolio_Client/Portfolio_Client.csproj" beforeDir="false" afterPath="$PROJECT_DIR$/Portfolio_Client/Portfolio_Client.csproj" afterDir="false" />
-    </list>
+    <list default="true" id="83ff08e9-114d-4018-a332-f8f51e9ef816" name="Changes" comment="" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -29,9 +26,6 @@
       <filtered-out-file-type name="TAG" />
       <filtered-out-file-type name="COMMIT_BY_MESSAGE" />
     </file-type-list>
-  </component>
-  <component name="HighlightingSettingsPerFile">
-    <setting file="file://$PROJECT_DIR$/Portfolio_Client/Pages/FetchData.razor" root0="SKIP_HIGHLIGHTING" root1="FORCE_HIGHLIGHTING" root2="FORCE_HIGHLIGHTING" />
   </component>
   <component name="ProjectId" id="1wXL7InChcuLyAXW6H17s4S6dML" />
   <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
@@ -50,7 +44,7 @@
     <property name="node.js.selected.package.tslint" value="(autodetect)" />
     <property name="vue.rearranger.settings.migration" value="true" />
   </component>
-  <component name="RunManager" selected=".NET Launch Settings Profile.Client">
+  <component name="RunManager" selected=".NET Launch Settings Profile.Portfolio_Client">
     <configuration name="Client" type="LaunchSettings" factoryName=".NET Launch Settings Profile">
       <option name="LAUNCH_PROFILE_PROJECT_FILE_PATH" value="$PROJECT_DIR$/Client/Client.csproj" />
       <option name="LAUNCH_PROFILE_TFM" value="net5.0" />
@@ -120,7 +114,7 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1628599821899</updated>
-      <workItem from="1628599830208" duration="1667000" />
+      <workItem from="1628599830208" duration="2108000" />
     </task>
     <servers />
   </component>
