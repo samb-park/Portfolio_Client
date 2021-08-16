@@ -1,6 +1,6 @@
 using System.Threading.Tasks;
-using Models;
 using AboutMeDTO = Portfolio_Client.Models.AboutMeDTO;
+using Portfolio_Client.Models;
 
 
 namespace Portfolio_Client.Service.IService
