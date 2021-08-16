@@ -1,16 +1,51 @@
 ﻿@page "/"
 @page "/index"
 
+@inject IAboutMeService _aboutMeService
+@inject IProjectService _projectService
+@inject IExperienceService _experienceService
 
-<Landing></Landing>
-<About></About>
-<ProjectList></ProjectList>
-<WorkExperience></WorkExperience>
-<Contact></Contact>
+
+@if (AboutMeModel == null || ProjectModels == null || ExperienceModels == null )
+{
+    <div class="h-screen bg-black flex justify-center items-center">
+        <video height="250" width="250" src="images/S.PARK.mp4" autoplay/>
+    </div>
+}
+else
+{
+    <Landing/>
+    <About AboutMeModel="AboutMeModel"/>
+    <ProjectList ProjectModels="ProjectModels" />
+    <ExperienceList ExperienceModels="ExperienceModels"/>
+}
+
+@* <div id="about"></div> *@
+@* <About></About> *@
+@* <div id="project"></div> *@
+@* <ProjectList></ProjectList> *@
+@* <div id="experience"></div> *@
+@* <WorkExperience></WorkExperience> *@
+@* <div id="contact"></div> *@
+@* <Contact></Contact> *@
 
 
 @code
 {
     [CascadingParameter(Name = "ColorMode")]
     public ColorMode COLOR { get; set; }
+
+    private AboutMeDTO AboutMeModel { get; set; }
+    private List<ProjectDTO> ProjectModels { get; set; } 
+    private List<ExperienceDTO> ExperienceModels { get; set; } 
+
+    
+    protected override async Task OnInitializedAsync()
+    {
+        AboutMeModel = await _aboutMeService.GetAboutMe();
+        var projects = await _projectService.GetAllProjects();
+        ProjectModels = projects.ToList();
+        var experiences = await _experienceService.GetAllExperiences();
+        ExperienceModels = experiences.OrderBy(x=>x.StartDate).ThenBy(x=>x.EndDate).ThenBy(x=>x.Title).ToList();
+    }
 }

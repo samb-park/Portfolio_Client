@@ -10,7 +10,22 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="83ff08e9-114d-4018-a332-f8f51e9ef816" name="Changes" comment="" />
+    <list default="true" id="83ff08e9-114d-4018-a332-f8f51e9ef816" name="Changes" comment="">
+      <change beforePath="$PROJECT_DIR$/.idea/.idea.Portfolio_Client/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/.idea.Portfolio_Client/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Portfolio_Client.sln" beforeDir="false" afterPath="$PROJECT_DIR$/Portfolio_Client.sln" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Portfolio_Client/Model/AboutMeDTO.cs" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Portfolio_Client/Model/ProjectDTO.cs" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Portfolio_Client/Model/WorkDTO.cs" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Portfolio_Client/Model/WorkExperience.razor" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Portfolio_Client/Pages/About.razor" beforeDir="false" afterPath="$PROJECT_DIR$/Portfolio_Client/Pages/About.razor" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Portfolio_Client/Pages/Index.razor" beforeDir="false" afterPath="$PROJECT_DIR$/Portfolio_Client/Pages/Index.razor" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Portfolio_Client/Pages/ProjectList.razor" beforeDir="false" afterPath="$PROJECT_DIR$/Portfolio_Client/Pages/ProjectList.razor" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Portfolio_Client/Portfolio_Client.csproj" beforeDir="false" afterPath="$PROJECT_DIR$/Portfolio_Client/Portfolio_Client.csproj" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Portfolio_Client/Program.cs" beforeDir="false" afterPath="$PROJECT_DIR$/Portfolio_Client/Program.cs" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Portfolio_Client/Properties/launchSettings.json" beforeDir="false" afterPath="$PROJECT_DIR$/Portfolio_Client/Properties/launchSettings.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Portfolio_Client/_Imports.razor" beforeDir="false" afterPath="$PROJECT_DIR$/Portfolio_Client/_Imports.razor" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Portfolio_Client/wwwroot/sample-data/weather.json" beforeDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -119,7 +134,10 @@
       <option name="presentableId" value="Default" />
       <updated>1628599821899</updated>
       <workItem from="1628599830208" duration="2555000" />
-      <workItem from="1628619692809" duration="2709000" />
+      <workItem from="1628619692809" duration="3547000" />
+      <workItem from="1629051529911" duration="147000" />
+      <workItem from="1629077583601" duration="1419000" />
+      <workItem from="1629084322729" duration="3603000" />
     </task>
     <servers />
   </component>
@@ -139,6 +157,7 @@
         </entry>
       </map>
     </option>
+    <option name="oldMeFiltersMigrated" value="true" />
   </component>
   <component name="VcsManagerConfiguration">
     <option name="ADD_EXTERNAL_FILES_SILENTLY" value="true" />

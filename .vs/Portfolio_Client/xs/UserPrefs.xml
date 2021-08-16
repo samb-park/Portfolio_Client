@@ -1,0 +1,33 @@
+﻿<Properties StartupConfiguration="{2E4ECBD6-A330-49FC-8B79-E81D8AC858A4}|Default">
+  <MonoDevelop.Ide.Workbench ActiveDocument="Portfolio_Client/Pages/About.razor">
+    <Files>
+      <File FileName="Portfolio_Client/Pages/About.razor" Line="46" Column="2" />
+      <File FileName="Portfolio_Client/Shared/MainLayout.razor" Line="3" Column="49" />
+    </Files>
+    <Pads>
+      <Pad Id="ProjectPad">
+        <State name="__root__">
+          <Node name="Portfolio_Client" expanded="True">
+            <Node name="Portfolio_Client" expanded="True">
+              <Node name="Pages" expanded="True">
+                <Node name="About.razor" selected="True" />
+              </Node>
+              <Node name="Properties" expanded="True" />
+              <Node name="Shared" expanded="True" />
+            </Node>
+          </Node>
+        </State>
+      </Pad>
+      <Pad Id="MonoDevelop.Debugger.WatchPad">
+        <State />
+      </Pad>
+    </Pads>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.ItemProperties.Portfolio__Client PreferredExecutionTarget="/Applications/Safari.app" />
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MultiItemStartupConfigurations />
+</Properties>
