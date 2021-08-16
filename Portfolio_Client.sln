@@ -2,8 +2,6 @@
 Microsoft Visual Studio Solution File, Format Version 12.00
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Portfolio_Client", "Portfolio_Client\Portfolio_Client.csproj", "{2E4ECBD6-A330-49FC-8B79-E81D8AC858A4}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Models", "..\Personal\Portfolio\Models\Models.csproj", "{CBD815FD-B115-4BDC-A78A-732B490FC349}"
-EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -14,9 +12,5 @@ Global
 		{2E4ECBD6-A330-49FC-8B79-E81D8AC858A4}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{2E4ECBD6-A330-49FC-8B79-E81D8AC858A4}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{2E4ECBD6-A330-49FC-8B79-E81D8AC858A4}.Release|Any CPU.Build.0 = Release|Any CPU
-		{CBD815FD-B115-4BDC-A78A-732B490FC349}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
-		{CBD815FD-B115-4BDC-A78A-732B490FC349}.Debug|Any CPU.Build.0 = Debug|Any CPU
-		{CBD815FD-B115-4BDC-A78A-732B490FC349}.Release|Any CPU.ActiveCfg = Release|Any CPU
-		{CBD815FD-B115-4BDC-A78A-732B490FC349}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 EndGlobal

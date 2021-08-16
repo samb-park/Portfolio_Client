@@ -1,7 +1,7 @@
 using System.Net.Http;
 using System.Net.Http.Json;
 using System.Threading.Tasks;
-using Models;
+using Portfolio_Client.Models;
 using Portfolio_Client.Service.IService;
 
 namespace Portfolio_Client.Service
