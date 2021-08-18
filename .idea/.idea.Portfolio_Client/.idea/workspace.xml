@@ -10,18 +10,7 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="83ff08e9-114d-4018-a332-f8f51e9ef816" name="Changes" comment="">
-      <change beforePath="$PROJECT_DIR$/.idea/.idea.Portfolio_Client/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/.idea.Portfolio_Client/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Portfolio_Client.sln" beforeDir="false" afterPath="$PROJECT_DIR$/Portfolio_Client.sln" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Portfolio_Client/Pages/Index.razor" beforeDir="false" afterPath="$PROJECT_DIR$/Portfolio_Client/Pages/Index.razor" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Portfolio_Client/Service/AboutMeService.cs" beforeDir="false" afterPath="$PROJECT_DIR$/Portfolio_Client/Service/AboutMeService.cs" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Portfolio_Client/Service/ExperienceService.cs" beforeDir="false" afterPath="$PROJECT_DIR$/Portfolio_Client/Service/ExperienceService.cs" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Portfolio_Client/Service/IService/IAboutMeService.cs" beforeDir="false" afterPath="$PROJECT_DIR$/Portfolio_Client/Service/IService/IAboutMeService.cs" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Portfolio_Client/Service/IService/IExperienceService.cs" beforeDir="false" afterPath="$PROJECT_DIR$/Portfolio_Client/Service/IService/IExperienceService.cs" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Portfolio_Client/Service/IService/IProjectService.cs" beforeDir="false" afterPath="$PROJECT_DIR$/Portfolio_Client/Service/IService/IProjectService.cs" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Portfolio_Client/Service/ProjectService.cs" beforeDir="false" afterPath="$PROJECT_DIR$/Portfolio_Client/Service/ProjectService.cs" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Portfolio_Client/_Imports.razor" beforeDir="false" afterPath="$PROJECT_DIR$/Portfolio_Client/_Imports.razor" afterDir="false" />
-    </list>
+    <list default="true" id="83ff08e9-114d-4018-a332-f8f51e9ef816" name="Changes" comment="" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -136,6 +125,7 @@
       <workItem from="1629077583601" duration="1419000" />
       <workItem from="1629084322729" duration="4175000" />
       <workItem from="1629089115208" duration="481000" />
+      <workItem from="1629134511582" duration="432000" />
     </task>
     <servers />
   </component>
