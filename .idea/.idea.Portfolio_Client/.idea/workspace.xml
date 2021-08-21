@@ -10,7 +10,9 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="83ff08e9-114d-4018-a332-f8f51e9ef816" name="Changes" comment="" />
+    <list default="true" id="83ff08e9-114d-4018-a332-f8f51e9ef816" name="Changes" comment="">
+      <change beforePath="$PROJECT_DIR$/Portfolio_Client/Pages/WorkExperience.razor" beforeDir="false" afterPath="$PROJECT_DIR$/Portfolio_Client/Pages/WorkExperience.razor" afterDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -120,6 +122,7 @@
       <updated>1628599821899</updated>
       <workItem from="1628599830208" duration="2555000" />
       <workItem from="1628619692809" duration="2709000" />
+      <workItem from="1629517936801" duration="351000" />
     </task>
     <servers />
   </component>

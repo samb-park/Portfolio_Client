@@ -48,6 +48,7 @@ else
     {
         // WorkExperiences = await WorkService.GetAllWorks();
         InitItems();
+        WorkExperiences = WorkExperiences.OrderByDescending(x=>x.StartDate).ThenByDescending(x=>x.EndDate).ToList();
     }
 
     private void InitItems()
