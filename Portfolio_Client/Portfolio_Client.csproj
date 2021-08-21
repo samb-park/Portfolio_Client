@@ -16,10 +16,7 @@
       <_ContentIncludedByDefault Remove="Model\WorkExperience.razor" />
       <_ContentIncludedByDefault Remove="wwwroot\sample-data\weather.json" />
     </ItemGroup>
-
-    <ItemGroup>
-      <ProjectReference Include="..\..\Personal\Portfolio\Models\Models.csproj" />
-    </ItemGroup>
+    
 
 <!--    <Target Name="CheckForNpm" BeforeTargets="NpmInstall">-->
 <!--        <Exec Command="npm -v" ContinueOnError="true">-->
