@@ -10,9 +10,7 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="83ff08e9-114d-4018-a332-f8f51e9ef816" name="Changes" comment="">
-      <change beforePath="$PROJECT_DIR$/Portfolio_Client/Pages/ProjectList.razor" beforeDir="false" afterPath="$PROJECT_DIR$/Portfolio_Client/Pages/ProjectList.razor" afterDir="false" />
-    </list>
+    <list default="true" id="83ff08e9-114d-4018-a332-f8f51e9ef816" name="Changes" comment="" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
