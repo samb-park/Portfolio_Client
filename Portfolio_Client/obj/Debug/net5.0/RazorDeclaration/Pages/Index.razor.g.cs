@@ -136,7 +136,7 @@ using Portfolio_Client.Models;
         var projects = await _projectService.GetAllProjects();
         ProjectModels = projects.ToList();
         var experiences = await _experienceService.GetAllExperiences();
-        ExperienceModels = experiences.OrderBy(x=>x.StartDate).ThenBy(x=>x.EndDate).ThenBy(x=>x.Title).ToList();
+        ExperienceModels = experiences.OrderByDescending(x=>x.StartDate).OrderByDescending(x=>x.EndDate).ThenBy(x=>x.Title).ToList();
     }
 
 #line default

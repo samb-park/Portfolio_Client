@@ -11,7 +11,26 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="83ff08e9-114d-4018-a332-f8f51e9ef816" name="Changes" comment="">
-      <change beforePath="$PROJECT_DIR$/Portfolio_Client/obj/Debug/net5.0/Portfolio_Client.assets.cache" beforeDir="false" afterPath="$PROJECT_DIR$/Portfolio_Client/obj/Debug/net5.0/Portfolio_Client.assets.cache" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/.idea.Portfolio_Client/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/.idea.Portfolio_Client/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Portfolio_Client/Pages/Index.razor" beforeDir="false" afterPath="$PROJECT_DIR$/Portfolio_Client/Pages/Index.razor" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Portfolio_Client/bin/Debug/net5.0/Portfolio_Client.dll" beforeDir="false" afterPath="$PROJECT_DIR$/Portfolio_Client/bin/Debug/net5.0/Portfolio_Client.dll" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Portfolio_Client/bin/Debug/net5.0/Portfolio_Client.pdb" beforeDir="false" afterPath="$PROJECT_DIR$/Portfolio_Client/bin/Debug/net5.0/Portfolio_Client.pdb" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Portfolio_Client/bin/Debug/net5.0/wwwroot/_framework/Portfolio_Client.dll" beforeDir="false" afterPath="$PROJECT_DIR$/Portfolio_Client/bin/Debug/net5.0/wwwroot/_framework/Portfolio_Client.dll" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Portfolio_Client/bin/Debug/net5.0/wwwroot/_framework/Portfolio_Client.pdb" beforeDir="false" afterPath="$PROJECT_DIR$/Portfolio_Client/bin/Debug/net5.0/wwwroot/_framework/Portfolio_Client.pdb" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Portfolio_Client/bin/Debug/net5.0/wwwroot/_framework/blazor.boot.json" beforeDir="false" afterPath="$PROJECT_DIR$/Portfolio_Client/bin/Debug/net5.0/wwwroot/_framework/blazor.boot.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Portfolio_Client/obj/Debug/net5.0/Portfolio_Client.csproj.AssemblyReference.cache" beforeDir="false" afterPath="$PROJECT_DIR$/Portfolio_Client/obj/Debug/net5.0/Portfolio_Client.csproj.AssemblyReference.cache" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Portfolio_Client/obj/Debug/net5.0/Portfolio_Client.dll" beforeDir="false" afterPath="$PROJECT_DIR$/Portfolio_Client/obj/Debug/net5.0/Portfolio_Client.dll" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Portfolio_Client/obj/Debug/net5.0/Portfolio_Client.pdb" beforeDir="false" afterPath="$PROJECT_DIR$/Portfolio_Client/obj/Debug/net5.0/Portfolio_Client.pdb" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Portfolio_Client/obj/Debug/net5.0/Razor/Pages/Index.razor.g.cs" beforeDir="false" afterPath="$PROJECT_DIR$/Portfolio_Client/obj/Debug/net5.0/Razor/Pages/Index.razor.g.cs" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Portfolio_Client/obj/Debug/net5.0/RazorDeclaration/Pages/Index.razor.g.cs" beforeDir="false" afterPath="$PROJECT_DIR$/Portfolio_Client/obj/Debug/net5.0/RazorDeclaration/Pages/Index.razor.g.cs" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Portfolio_Client/obj/Debug/net5.0/RazorDeclaration/Portfolio_Client.dll" beforeDir="false" afterPath="$PROJECT_DIR$/Portfolio_Client/obj/Debug/net5.0/RazorDeclaration/Portfolio_Client.dll" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Portfolio_Client/obj/Debug/net5.0/RazorDeclaration/Portfolio_Client.pdb" beforeDir="false" afterPath="$PROJECT_DIR$/Portfolio_Client/obj/Debug/net5.0/RazorDeclaration/Portfolio_Client.pdb" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Portfolio_Client/obj/Debug/net5.0/blazor.boot.json" beforeDir="false" afterPath="$PROJECT_DIR$/Portfolio_Client/obj/Debug/net5.0/blazor.boot.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Portfolio_Client/obj/Portfolio_Client.csproj.nuget.dgspec.json" beforeDir="false" afterPath="$PROJECT_DIR$/Portfolio_Client/obj/Portfolio_Client.csproj.nuget.dgspec.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Portfolio_Client/obj/Portfolio_Client.csproj.nuget.g.props" beforeDir="false" afterPath="$PROJECT_DIR$/Portfolio_Client/obj/Portfolio_Client.csproj.nuget.g.props" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Portfolio_Client/obj/project.assets.json" beforeDir="false" afterPath="$PROJECT_DIR$/Portfolio_Client/obj/project.assets.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Portfolio_Client/obj/project.nuget.cache" beforeDir="false" afterPath="$PROJECT_DIR$/Portfolio_Client/obj/project.nuget.cache" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Portfolio_Client/obj/rider.project.restore.info" beforeDir="false" afterPath="$PROJECT_DIR$/Portfolio_Client/obj/rider.project.restore.info" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -128,6 +147,7 @@
       <workItem from="1629084322729" duration="4175000" />
       <workItem from="1629089115208" duration="481000" />
       <workItem from="1629134511582" duration="432000" />
+      <workItem from="1629856300272" duration="1128000" />
     </task>
     <servers />
   </component>

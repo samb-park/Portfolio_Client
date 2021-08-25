@@ -1255,7 +1255,7 @@
       "outputPath": "/Users/sangbongpark/Documents/GitHub/Portfolio_Client/Portfolio_Client/obj/",
       "projectStyle": "PackageReference",
       "configFilePaths": [
-        "/Users/sangbongpark/.config/NuGet/NuGet.Config"
+        "/Users/sangbongpark/.nuget/NuGet/NuGet.Config"
       ],
       "originalTargetFrameworks": [
         "net5.0"
