@@ -76,7 +76,7 @@ else
 
     protected async override Task OnInitializedAsync()
     {
-    // WorkExperiences = await WorkService.GetAllWorks();
+        // WorkExperiences = await WorkService.GetAllWorks();
         InitItems();
     }
 
@@ -97,6 +97,14 @@ else
             GithubUrl = "https://github.com/sangbongpark/Portfolio.V2",
             ProjectUrl = null,
             ImageUrls = "/images/item2.png"
+        });
+        Projects.Add(new ProjectDTO()
+        {
+            Title = "Portfolio Version 3",
+            ShortDescription = "Skills - C#, WebApi(Asp.net) Blazor, SQL Server, HTML ,Bootstrap",
+            GithubUrl = "https://github.com/sangbongpark/Portfolio.V3",
+            ProjectUrl = www.sangbongpark.com,
+            ImageUrls = "/images/item3.png"
         });
     }
 }
